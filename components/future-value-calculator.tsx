@@ -3,8 +3,8 @@
 import { useState, useEffect, useCallback, useRef } from "react"
 import jsPDF from "jspdf"
 
-const BLUE = "#293895"
-const GREEN = "#9fcc3a"
+const BLUE = "#262A42"
+const GREEN = "#61D48A"
 const API_KEY = "f1a1d4ea-2999-46e2-94a8-c77be61ee709"
 const API_URL = "https://mfapi.advisorkhoj.com/calc/getFutureValueCalcResult"
 
